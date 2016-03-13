@@ -1,4 +1,0 @@
- 
-admin user:ali
-pass:1
- 
