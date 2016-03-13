@@ -1,0 +1,44 @@
+/*
+//
+// کـاربــر تـالار گفتگـوی پـرشـیـن اسکـریـپــت » i PersianScript « فـارسـی و زیـبـــا ! سـازی شـده تـوسـط 
+//
+// Copyright © 2011 All right reserved By » i PersianScript « the user » forum.persianscript.ir « Forum . 
+//
+// Powered by FTPLess .
+//
+*/
+
+div.smarkup table.smarkup-special-chars, div.smarkup table.smarkup-special-colors {
+	width: 100%;
+}
+
+div.smarkup table.smarkup-special-chars a {
+	display: block;
+	text-decoration: none;
+	color: #333;
+	width: 22px;
+	border: 1px solid #999;
+	border-top-color: #dedede;
+	border-left-color: #dedede;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+}
+
+div.smarkup table.smarkup-special-chars a:hover {
+	background-color: #dedede;
+}
+
+div.smarkup table.smarkup-special-chars td {
+	padding: 1px;
+}
+
+div.smarkup table.smarkup-special-colors td {
+	padding: 0;
+	margin: 0;
+}
+
+div.smarkup table.smarkup-special-colors a {
+	display: block;
+	height: 14px;
+}
